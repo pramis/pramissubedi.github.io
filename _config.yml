@@ -18,13 +18,15 @@ email: hello@pramissubedi.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts on technology, software development, and life.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pramissubedi.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pramissubedi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: pramissubedi
 github_username:  pramissubedi
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
 
 # Theme settings
 show_excerpts: true
@@ -35,14 +37,15 @@ hide_credits: false
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
 
 plugins:
   - jekyll-paginate
