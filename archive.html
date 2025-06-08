@@ -1,0 +1,34 @@
+---
+layout: page
+title: Archive
+---
+
+<div class="archive">
+  <h1>All Posts</h1>
+  
+  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  
+  {% for year in posts_by_year %}
+    <div class="archive-year">
+      <h2>{{ year.name }}</h2>
+      
+      {% for post in year.items %}
+        <article class="archive-item">
+          <time class="archive-date" datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: "%B %d" }}
+          </time>
+          <h3 class="archive-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+          {% if post.excerpt %}
+            <p class="archive-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+          {% endif %}
+        </article>
+      {% endfor %}
+    </div>
+  {% endfor %}
+  
+  {% if site.posts.size == 0 %}
+    <p>No posts yet. Check back soon!</p>
+  {% endif %}
+</div> 

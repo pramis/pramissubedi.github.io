@@ -23,6 +23,7 @@
   margin: 0;
   &.active a {
     text-decoration: underline;
+    color: var(--accent-color);
   }
 }
 
@@ -30,9 +31,11 @@
   display: block;
   padding: .25em .5em;
   text-decoration: none;
-  transition: opacity .125s ease-in-out;
+  color: var(--text-color);
+  transition: opacity .125s ease-in-out, color .125s ease-in-out;
   &:hover,
   &:focus {
     opacity: 1;
+    color: var(--accent-color);
   }
 }

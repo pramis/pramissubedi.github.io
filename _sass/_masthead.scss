@@ -9,13 +9,14 @@
   margin-bottom: 0;
   margin-top: 1em;
   padding: 0 2rem;
+  color: var(--text-color);
   @media (min-width: $on-tablet) {
     font-size: 6em;
   }
 }
 
 .site-masthead h2 {
-  color: $muted-text-color;
+  color: var(--muted-color);
   font-size: 1.25em;
   margin: 0;
   padding: 0 2rem;

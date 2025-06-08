@@ -1,0 +1,74 @@
+.archive {
+  max-width: 42em;
+  margin: 0 auto;
+  padding: 2em 1em;
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 2em;
+  }
+  
+  .archive-year {
+    margin-bottom: 3em;
+    
+    h2 {
+      font-size: 1.5em;
+      margin-bottom: 1em;
+      padding-bottom: 0.5em;
+      border-bottom: 1px solid var(--border-color);
+      color: var(--muted-color);
+    }
+  }
+  
+  .archive-item {
+    margin-bottom: 2em;
+    padding-bottom: 1.5em;
+    border-bottom: 1px solid var(--border-color);
+    
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+  
+  .archive-date {
+    display: block;
+    font-size: 0.9em;
+    color: var(--muted-color);
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  
+  .archive-title {
+    margin: 0 0 0.5em 0;
+    font-size: 1.3em;
+    
+    a {
+      text-decoration: none;
+      color: var(--text-color);
+      
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+  
+  .archive-excerpt {
+    color: var(--muted-color);
+    font-size: 0.95em;
+    line-height: 1.4;
+    margin: 0;
+  }
+  
+  @media (max-width: $on-tablet) {
+    padding: 1em;
+    
+    .archive-year h2 {
+      font-size: 1.3em;
+    }
+    
+    .archive-title {
+      font-size: 1.2em;
+    }
+  }
+} 
