@@ -17,7 +17,7 @@ title: Pramis Subedi
 email: pramis@minsights.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts on technology, software development, and life.
-baseurl: "/pramissubedi.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pramis.github.io" # the base hostname & protocol for your site
 icon: /assets/images/icon-512.png
 twitter_username: pramis_xyz
