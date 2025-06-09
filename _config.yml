@@ -28,6 +28,9 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
 
+# Disable default GitHub Pages theme
+theme: null
+
 # Theme settings
 show_excerpts: true
 excerpt_length: 25
