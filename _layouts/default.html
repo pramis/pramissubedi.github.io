@@ -41,13 +41,19 @@
 
     {% include theme-toggle.html %}
 
-    {% unless site.hide_credits %}
-      <aside class="site-credits">
-        <p>
-          <small><a href="https://github.com/patdryburgh/hitchens">Hitchens Theme</a> powered by <a href="http://jekyllrb.com">Jekyll</a></small>
-        </p>
-      </aside>
-    {% endunless %}
+    <footer class="site-footer">
+      <div class="social-links">
+        <a href="https://twitter.com/pramis_xyz" target="_blank" rel="noopener">Twitter</a>
+        <a href="https://www.linkedin.com/in/pramis/" target="_blank" rel="noopener">LinkedIn</a>
+      </div>
+      {% unless site.hide_credits %}
+        <aside class="site-credits">
+          <p>
+            <small><a href="https://github.com/patdryburgh/hitchens">Hitchens Theme</a> powered by <a href="http://jekyllrb.com">Jekyll</a></small>
+          </p>
+        </aside>
+      {% endunless %}
+    </footer>
 
   </body>
 </html>
