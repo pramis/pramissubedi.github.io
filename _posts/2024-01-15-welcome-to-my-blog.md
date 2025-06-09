@@ -37,10 +37,14 @@ The theme toggle in the top-right corner lets you switch between light and dark 
 
 ## Let's Connect
 
-I'd love to hear from you! Whether you want to discuss a project, share feedback on a post, or just say hello, feel free to reach out through any of the links in the [about page](/about).
+I'd love to hear from you! Whether you want to discuss a project, share feedback on a post, or just say hello, feel free to reach out through any of the links in the [about page](/about) or connect with me on:
+
+- **GitHub**: [@{{ site.github_username }}](https://github.com/{{ site.github_username }})
+- **Twitter/X**: [@{{ site.twitter_username }}](https://twitter.com/{{ site.twitter_username }})
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/{{ site.linkedin_username }}/)
 
 Here's to new beginnings and the conversations that follow.
 
 ---
 
-*P.S. - If you spot any bugs or have suggestions for improvements, the source code for this blog is available on [GitHub](https://github.com/{{ site.github_username }}/{{ site.github_username }}.github.io). Pull requests welcome!* 
+*P.S. - If you spot any bugs or have suggestions for improvements, the source code for this blog is available on [GitHub](https://github.com/{{ site.github_username }}/pramissubedi.github.io). Pull requests welcome!* 

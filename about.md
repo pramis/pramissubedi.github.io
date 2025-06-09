@@ -26,8 +26,9 @@ I'd love to connect! Whether you want to discuss a project, share ideas, or just
 
 - **Email**: [{{ site.email }}](mailto:{{ site.email }})
 - **GitHub**: [@{{ site.github_username }}](https://github.com/{{ site.github_username }})
-- **Twitter**: [@{{ site.twitter_username }}](https://twitter.com/{{ site.twitter_username }})
+- **Twitter/X**: [@{{ site.twitter_username }}](https://twitter.com/{{ site.twitter_username }})
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/{{ site.linkedin_username }}/)
 
 ---
 
-*This blog is built with Jekyll using a customized version of the [Hitchens theme](https://github.com/patdryburgh/hitchens). The source code is available on [GitHub](https://github.com/{{ site.github_username }}/{{ site.github_username }}.github.io).*
+*This blog is built with Jekyll using a customized version of the [Hitchens theme](https://github.com/patdryburgh/hitchens). The source code is available on [GitHub](https://github.com/{{ site.github_username }}/pramissubedi.github.io).*

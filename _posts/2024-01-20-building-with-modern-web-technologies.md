@@ -66,4 +66,8 @@ The key is not to chase every new framework or tool, but to understand the under
 
 ---
 
-*What's your experience with modern web development? I'd love to hear about the tools and approaches that have worked well for you. Feel free to reach out on [GitHub](https://github.com/{{ site.github_username }}) or [Twitter](https://twitter.com/{{ site.twitter_username }}).* 
+*What's your experience with modern web development? I'd love to hear about the tools and approaches that have worked well for you. Feel free to reach out on:*
+
+- **GitHub**: [@{{ site.github_username }}](https://github.com/{{ site.github_username }})
+- **Twitter/X**: [@{{ site.twitter_username }}](https://twitter.com/{{ site.twitter_username }})
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/{{ site.linkedin_username }}/) 
