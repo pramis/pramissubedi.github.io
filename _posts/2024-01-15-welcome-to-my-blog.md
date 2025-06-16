@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Welcome to My Blog"
-date: 2024-01-15 10:00:00 -0000
+date: 2025-06-15 10:00:00 -0000
 categories: [personal, meta]
 excerpt: "A fresh start with a new design and some thoughts on what's to come."
 ---
 
 # Welcome to My Blog
 
-After spending way too much time tweaking themes and color schemes, I'm excited to finally launch this space where I can share my thoughts on technology, development, and life.
+After spending way too much time tweaking themes and color schemes, I'm excited to finally launch this space where I can share my thoughts on technology, development, and life. This summer I am working on 
 
 ## What Changed
 
