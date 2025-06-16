@@ -3,22 +3,10 @@ layout: page
 title: About
 ---
 
-# Hey, I'm Pramis! 👋
+# Howdy, My Name is Pramis! 👋
 
-I'm a software developer with a passion for building meaningful technology that makes a difference. When I'm not coding, you can find me exploring new ideas, learning about emerging technologies, or sharing thoughts on the intersection of technology and life.
-
-## What I Do
-
-I work primarily in web development, focusing on creating clean, efficient, and user-friendly applications. My interests span across:
-
-- **Full-stack Development** - Building end-to-end solutions
-- **Modern Web Technologies** - React, Node.js, and emerging frameworks
-- **Developer Experience** - Tools and processes that make development better
-- **Open Source** - Contributing to the community that has given me so much
-
-## Beyond Code
-
-Technology fascinates me not just for what it can do, but for how it can improve people's lives. I believe in thoughtful development - taking time to understand problems deeply before jumping to solutions.
+Crypto bro turned political staffer!
+Always loved technology and its intellectual thinkersI Studied Technology Management at Texas A&M, with minors in Cybersecurity and Business. At Fractal Technology, I helped build String and track crypto legislation. Later pivoted and worked in New Hampshire during the presidential cycle of 2024. I’ve always been drawn to tech’s potential impact in governance but now especially political campaigns. Now, I’m building machiavelli insights, a modern all in one political intelligence platform to help campaigns and political orgs save time and produce better research.
 
 ## Get in Touch
 
