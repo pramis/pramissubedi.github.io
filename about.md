@@ -6,7 +6,7 @@ title: About
 # Howdy, My Name is Pramis! 👋
 
 Crypto bro turned political staffer!
-Always loved technology and its intellectual thinkersI Studied Technology Management at Texas A&M, with minors in Cybersecurity and Business. At Fractal Technology, I helped build String and track crypto legislation. Later pivoted and worked in New Hampshire during the presidential cycle of 2024. I've always been drawn to tech's potential impact in governance but now especially political campaigns. Now, I'm building machiavelli insights, a modern all in one political intelligence platform to help campaigns and political orgs save time and produce better research.
+Always loved technology and its intellectual thinkers. I Studied Technology Management at Texas A&M, with minors in Cybersecurity and Business. At Fractal Technology, I helped build String and track crypto legislation. Later pivoted and worked in New Hampshire during the presidential cycle of 2024. I've always been drawn to tech's potential impact in governance but now especially political campaigns. Now, I'm building machiavelli insights, a modern all in one political intelligence platform to help campaigns and political orgs save time and produce better research.
 
 ## Get in Touch
 
