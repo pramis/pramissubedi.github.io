@@ -8,7 +8,7 @@ excerpt: "A fresh start with a new design and some thoughts on what's to come."
 
 # Welcome to My Blog
 
-After spending way too much time tweaking themes and color schemes, I'm excited to finally launch this space where I can share my thoughts on technology, development, and life. This summer I am working on 
+After spending way too much time tweaking themes and color schemes, I'm excited to finally launch this space where I can share my thoughts on technology, development, and life. This summer I am working on launching [Machiavelli Insights] (minisghts.xyz) and want to keep a running blog of that development process and the other things I am musing over.
 
 ## What Changed
 
